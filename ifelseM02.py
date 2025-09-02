@@ -1,6 +1,6 @@
 # Gabriel Moore
 # ifelseM02.py
-# This program will accept students names (as a string) and GPA (as a float) and return if they can make the Dean's list or Honor Roll
+# This program will accept students names (as a string) and GPA (as a float) and return if they can make the Dean's list or Honor Roll. If the entered first name is ZZZ, the program will terminate without any further processing
 
 lastName = str(input("Enter student last name: "))
 if lastName != "ZZZ" :
