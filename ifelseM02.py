@@ -37,6 +37,10 @@ Enter student last name: Schorey
 Enter student first name: Paul
 Enter student GPA as a decimal (e.g: 3.0): 3.25
 Paul Schorey is elegible for the Honor Roll!
+Enter student last name: Tillman
+Enter student first name: Landen
+Enter student GPA as a decimal (e.g: 3.0): 3.5
+Paul Schorey is elegible for the Dean's List!
 Enter student last name: ZZZ
 (end of process)
 
